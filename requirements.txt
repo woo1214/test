@@ -1,0 +1,6 @@
+streamlit
+pandas
+nltk
+plotly
+matplotlib
+google-play-scraper
